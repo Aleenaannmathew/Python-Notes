@@ -91,8 +91,6 @@ Python-Notes/
 ├── 12-Standard-Library/
 └── README.md
 
-yaml
-Copy code
 
 Each folder contains **detailed markdown notes** for individual topics, organized to help you **progress from beginner to advanced level**.
 
